@@ -81,8 +81,10 @@ span {
 }
 
 footer {
+    padding: 16px;
     z-index: 1;
     text-align: center;
     width: 100%;
     color: #fff;
+    margin-top: 250px;
 }
